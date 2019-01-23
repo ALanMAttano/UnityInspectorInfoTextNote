@@ -6,7 +6,7 @@
 Made by Alan Mattano at SOARING STARS lab
 MIT Licens
 
-![Alt text](/pix/image.png?raw=true)
+![Alt text](/pix/InspectorNote.png?raw=true)
 
 
 ## Usage
