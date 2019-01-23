@@ -9,7 +9,7 @@ using UnityEditor;
 *      
 *      .Will handle the Information Note inspector variables
 *      
-*          . Put data in line
+*          . Make two stages {Input} / {visualisation}
 * 
 * *******************************************************/
 
@@ -29,6 +29,8 @@ public class InspectorNote : Editor
 
         if (!inMyScript.isReady)
         {
+            // User adding Input text in the inspector
+            
             switch (selectedValue)
             {
                 case 0:
@@ -86,6 +88,8 @@ public class InspectorNote : Editor
         }
         else
         {
+            // Visualisation of final text in the inspector.
+            
             buttonText = "LOCK";
 
             // Display [ LOCK ] Button and switch if is press
