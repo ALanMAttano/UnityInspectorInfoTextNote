@@ -10,6 +10,7 @@ using UnityEditor;
 *      .Will handle the Information Note inspector variables
 *      
 *          . Make two stages {Input} / {visualisation}
+*          . Visualize input and buttons in the inspector
 * 
 * *******************************************************/
 
