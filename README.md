@@ -6,7 +6,7 @@
 Made by Alan Mattano Aug 2014 at SOARING STARS lab
 MIT Licens
 
-![Alt text](/pix/InspectorNote.png?raw=true)
+![Inspector Note](/pix/InspectorNote.png?raw=true)
 
 
 ## Usage
@@ -20,9 +20,10 @@ Press [ LOCK ] button
 
 
 ## Links
-Forum Tread: https://forum.unity.com/threads/add-info-text-notes-into-the-inspector.265330/
-Unity Awnser: https://answers.unity.com/questions/444312/having-text-or-notes-in-the-inspector.html
-Similar project: https://github.com/johnearnshaw/unity-inspector-help
+- Forum Tread: https://forum.unity.com/threads/add-info-text-notes-into-the-inspector.265330/
+- Unity Awnser: https://answers.unity.com/questions/444312/having-text-or-notes-in-the-inspector.html
+- Similar project: https://github.com/johnearnshaw/unity-inspector-help
+
 
 
 ## Collaboration
