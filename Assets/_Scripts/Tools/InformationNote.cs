@@ -2,7 +2,7 @@ using UnityEngine;
 
 /*********************************************************
 * 
-*  2019 Alan Mattano
+*  2014-2019 Alan Mattano
 *  SOARING STARS Lab
 *  Information  Note
 *      
