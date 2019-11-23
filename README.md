@@ -3,7 +3,7 @@
 
 ---
 
-Made by Alan Mattano at SOARING STARS lab
+Made by Alan Mattano 2014 at SOARING STARS lab
 MIT Licens
 
 ![Alt text](/pix/InspectorNote.png?raw=true)
@@ -26,10 +26,6 @@ https://youtu.be/YYk6Xg3An6s
 Similar projects
 https://github.com/johnearnshaw/unity-inspector-help
 
-
-## Copiright
-Material License: MIT License
-Intellectual Author: Alan Mattanó since 2015 mod2019 for Unity5 SoaringStarsLab, Buenos Aires, Argentina
 
 ## Collaboration
 
