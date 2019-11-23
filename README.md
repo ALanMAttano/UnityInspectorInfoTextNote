@@ -3,7 +3,7 @@
 
 ---
 
-Made by Alan Mattano 2014 at SOARING STARS lab
+Made by Alan Mattano Aug 2014 at SOARING STARS lab
 MIT Licens
 
 ![Alt text](/pix/InspectorNote.png?raw=true)
@@ -11,20 +11,18 @@ MIT Licens
 
 ## Usage
 
+Video: https://youtu.be/YYk6Xg3An6s
 Add Assets CS scripts into your project.
 Drag and drop the script into the inspector
 Type into the text input field
 Select the type
 Press [ LOCK ] button
 
-Video:
-https://youtu.be/YYk6Xg3An6s
-
-
 
 ## Links
-Similar projects
-https://github.com/johnearnshaw/unity-inspector-help
+Forum Tread: https://forum.unity.com/threads/add-info-text-notes-into-the-inspector.265330/
+Unity Awnser: https://answers.unity.com/questions/444312/having-text-or-notes-in-the-inspector.html
+Similar project: https://github.com/johnearnshaw/unity-inspector-help
 
 
 ## Collaboration
