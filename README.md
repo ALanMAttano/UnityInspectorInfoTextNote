@@ -19,7 +19,6 @@ Press [ LOCK ] button
 
 Video:
 https://youtu.be/YYk6Xg3An6s
-[![Video Description](https://img.youtube.com/vi/VID/0.jpg)](https://youtu.be/YYk6Xg3An6s)
 
 
 
