@@ -11,12 +11,12 @@ MIT Licens
 
 ## Usage
 
-Video: https://youtu.be/YYk6Xg3An6s
+
 Add Assets CS scripts into your project.
 Drag and drop the script into the inspector
 Type into the text input field
 Select the type
-Press [ LOCK ] button
+Press [ LOCK ] button. **Video:** https://youtu.be/YYk6Xg3An6s
 
 
 ## Links
