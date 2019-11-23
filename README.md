@@ -17,9 +17,19 @@ Type into the text input field
 Select the type
 Press [ LOCK ] button
 
+Video:
+https://youtu.be/YYk6Xg3An6s
+[![Video Description](https://img.youtube.com/vi/VID/0.jpg)](https://youtu.be/YYk6Xg3An6s)
 
+
+
+## Links
+Similar projects
+https://github.com/johnearnshaw/unity-inspector-help
 
 
 ## Collaboration
 
-Please feel free to modify or fork and push back changes
+Please modify or fork freelly and push back changes if you wish to improve this project.
+
+
