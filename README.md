@@ -27,6 +27,10 @@ Similar projects
 https://github.com/johnearnshaw/unity-inspector-help
 
 
+## Copiright
+Material License: MIT License
+Intellectual Author: Alan Mattanó since 2015 mod2019 for Unity5 SoaringStarsLab, Buenos Aires, Argentina
+
 ## Collaboration
 
 Please modify or fork freelly and push back changes if you wish to improve this project.
