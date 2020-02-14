@@ -1,6 +1,7 @@
 # Unity Inspector Info Text Note
 *This tool adds text note, help infobox, alerts and warnings into the Unity inspector.*
 
+WARNING: This tool does not work in Unity 2019
 ---
 
 Made by Alan Mattano Aug 2014 at SOARING STARS lab
