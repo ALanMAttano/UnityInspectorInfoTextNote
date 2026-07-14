@@ -1,24 +1,28 @@
 # Unity Inspector Info Text Note
 *This tool adds text note, help infobox, alerts and warnings into the Unity inspector.*
 
-WARNING: This tool is for Unity 6 or above
+Unity 6+ compatible Jul 2026
 ---
 
-DOWNLOAD RELEASES
+Download the latest v2.1 release:
 https://github.com/ALanMAttano/UnityInspectorInfoTextNote/releases
 
-Made by Alan Mattano , Jul 2026 at SOARING STARS lab
-MIT License
+Made by Alan Mattano at SOARING STARS lab. MIT License.
 
+## Usage
+1. Add the CS scripts to your project.
+2. Drag InformationNote component to GameObject.
+3. Type text, select type, press LOCK.
 
-WARNING: This tool does not work in Unity 2019 ~ 2020 or above
+Video: https://youtu.be/YYk6Xg3An6s
+
+Unity 5+ compatible: Aug 2014. This tool does not work in Unity 2019 ~ 2024 or later.
 ---
 
-DOWNLOAD RELEASES
+Download the v1 release:
 https://github.com/ALanMAttano/UnityInspectorInfoTextNote/tree/master/Assets/_Scripts/Tools
 
-Made by Alan Mattano Aug 2014 at SOARING STARS lab
-MIT Licens
+Made by Alan Mattano at SOARING STARS lab. MIT License.
 
 ![Inspector Note](/pix/InspectorNote.png?raw=true)
 
@@ -42,6 +46,6 @@ Press [ LOCK ] button. **Video:** https://youtu.be/YYk6Xg3An6s
 
 ## Collaboration
 
-Please modify or fork freelly and push back changes if you wish to improve this project.
+Please modify or fork freely and push back changes if you wish to improve this project.
 
 
