@@ -14,6 +14,9 @@ MIT License
 WARNING: This tool does not work in Unity 2019 ~ 2020 or above
 ---
 
+DOWNLOAD RELEASES
+https://github.com/ALanMAttano/UnityInspectorInfoTextNote/tree/master/Assets/_Scripts/Tools
+
 Made by Alan Mattano Aug 2014 at SOARING STARS lab
 MIT Licens
 
