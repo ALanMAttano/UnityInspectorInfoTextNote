@@ -1,6 +1,16 @@
 # Unity Inspector Info Text Note
 *This tool adds text note, help infobox, alerts and warnings into the Unity inspector.*
 
+WARNING: This tool is for Unity 6 or above
+---
+
+DOWNLOAD RELEASES
+https://github.com/ALanMAttano/UnityInspectorInfoTextNote/releases
+
+Made by Alan Mattano , Jul 2026 at SOARING STARS lab
+MIT License
+
+
 WARNING: This tool does not work in Unity 2019 ~ 2020 or above
 ---
 
